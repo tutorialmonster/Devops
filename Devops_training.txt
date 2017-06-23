@@ -1,0 +1,63 @@
+# Devops
+Useful links and tutorials to be master in DevOps
+
+=================================================
+DevOps videos 
+=================================================
+
+1- What is DevOps, briefly explain it:
+https://www.youtube.com/watch?v=duMacL8lLeE&t=4s
+
+=================================================
+Linux videos 
+=================================================
+
+1- Linux Installation using different mode "Minimal mode Black screen", GUI "Graphical User Interface":
+https://www.youtube.com/watch?v=3ZfANLubIqM&t=8s
+https://www.youtube.com/watch?v=ijSmpKuP6gM&t=5s
+
+2- Linux text editors:
+https://www.youtube.com/watch?v=6O2e6FYGrWU&t=6s
+
+3- Configure yum repository to install packages:
+https://www.youtube.com/watch?v=bJgLeZTUAMU&t=10s
+
+4- Linux basics commands:
+https://www.youtube.com/watch?v=Yf0Jlz-bpKE&t=6s
+
+5-Permission on Linux for files and directories:
+https://www.youtube.com/watch?v=PVcuYYoVwXE&t=9s
+
+6- Network configuration:
+https://www.youtube.com/watch?v=YgFrrGYfKt0&t=17s
+
+7- DHCP configuration:
+https://www.youtube.com/watch?v=o0A0uP4DDss&t=13s
+
+8- FTP configuration
+https://www.youtube.com/watch?v=4q16aiskWTU&t=5s
+
+9-DNS configuration:
+https://www.youtube.com/watch?v=QS8EIzxZoRQ&t=7s
+
+10- Samba configuration:
+https://www.youtube.com/watch?v=9gyjgR7TdFE&t=7s
+
+11- OpenLDAP configuration:
+https://www.youtube.com/watch?v=yR0iYUKF1-E&t=3s
+
+12- NFS configuration:
+https://www.youtube.com/watch?v=lM-kvD_f9d8&t=2s
+
+13- NIS configuration:
+https://www.youtube.com/watch?v=uYlqbu3TCvY&t=18s
+
+14- HTTP configuration:
+https://www.youtube.com/watch?v=lxvEr_FPu20&t=12s
+
+15- Scheduler, cron jobs:
+https://www.youtube.com/watch?v=cf_4rxOuXjk&t=29s
+
+16- Shell scripting:
+https://www.youtube.com/watch?v=SDutDehVOxE&t=1s
+
