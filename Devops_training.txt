@@ -61,3 +61,19 @@ https://www.youtube.com/watch?v=cf_4rxOuXjk&t=29s
 16- Shell scripting:
 https://www.youtube.com/watch?v=SDutDehVOxE&t=1s
 
+=================================================
+Java videos 
+=================================================
+
+1- Compile and run your Java code:
+https://www.youtube.com/watch?v=EE45kJvd1Oo
+
+=================================================
+Vagrant videos 
+=================================================
+
+1- Introduction to Vagrant:
+https://youtu.be/YHlzTwWRir4
+
+2- Automation and deploy web application using Vagrant
+https://youtu.be/u05t1zhPKm8
